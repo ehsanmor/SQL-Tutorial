@@ -1,1 +1,1 @@
-# SQL-Tutorial
+# MySQL-YouTube-Series
